@@ -1,5 +1,5 @@
 ProjCrudRest
-This project is in django Rest framework. It has crud functionality with two different user(Parent and Child).Data is stored in JSON format
+This project is in django Rest framework. It has crud functionality with two different user(Parent and Child).Data is stored in JSON format.I ve added a JSON data file named jsonData.txt
 
 Project Environment Requirements->
 
