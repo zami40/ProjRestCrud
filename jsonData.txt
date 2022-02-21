@@ -1,0 +1,72 @@
+    {
+        "id": 1,
+        "firstName": "Eliasur",
+        "lastName": "Rahman",
+        "user": "PARENT",
+        "address": "Road no -03, House no -16,\r\nBlock-A, Mirpur-1, Dhaka-1216.",
+        "street": "Road no -03, House n",
+        "city": "mirpur",
+        "state": "dh",
+        "zip_code": 1216,
+        "parentId": null
+    },
+    {
+        "id": 2,
+        "firstName": "Zaminur",
+        "lastName": "Rahman",
+        "user": "CHILD",
+        "address": "",
+        "street": null,
+        "city": null,
+        "state": null,
+        "zip_code": null,
+        "parentId": 1
+    },
+    {
+        "id": 3,
+        "firstName": "Kamruzzaman",
+        "lastName": "Hasan",
+        "user": "PARENT",
+        "address": "Road no -03, House no -16,\r\nBlock-A, Mirpur-1, Dhaka-1216.",
+        "street": "Road no -04,",
+        "city": "mirpur",
+        "state": "dh",
+        "zip_code": 1216,
+        "parentId": null
+    },
+    {
+        "id": 4,
+        "firstName": "Faiyaz",
+        "lastName": "Hasan",
+        "user": "CHILD",
+        "address": "",
+        "street": null,
+        "city": null,
+        "state": null,
+        "zip_code": null,
+        "parentId": 3
+    },
+    {
+        "id": 5,
+        "firstName": "Faarabi",
+        "lastName": "Hasan",
+        "user": "CHILD",
+        "address": "Road no -03, House no -16,\r\nBlock-A, Mirpur-1, Dhaka-1216.",
+        "street": "Road no -03, House n",
+        "city": "mirpur",
+        "state": null,
+        "zip_code": 1216,
+        "parentId": null
+    },
+    {
+        "id": 6,
+        "firstName": "Runai",
+        "lastName": "Rahman",
+        "user": "CHILD",
+        "address": "",
+        "street": null,
+        "city": null,
+        "state": null,
+        "zip_code": null,
+        "parentId": 1
+    }
